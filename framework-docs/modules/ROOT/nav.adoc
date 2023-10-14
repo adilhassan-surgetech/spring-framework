@@ -1,4 +1,4 @@
-include::{docdir}/pages/overview.adoc[Overview]
+include::{docdir}/pages/core/overview.adoc[]
 include::{docdir}/pages/core.adoc[]
 include::{docdir}/pages/core/beans.adoc[]
 include::{docdir}/pages/core/beans/introduction.adoc[]
